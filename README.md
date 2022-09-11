@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiezhyan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 # 👋 Please Look Here
 - 💯 俗世游子【谢先生】，2014年入行的程序猿
 - 👀 近几年在进阶高级架构师，涉及Java、云原生、大数据
