@@ -11,6 +11,13 @@
 
 ###
 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/xiezhyan/count.svg?"  />
+</div>
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
